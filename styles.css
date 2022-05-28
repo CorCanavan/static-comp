@@ -139,6 +139,10 @@ p {
   font-size: smaller;
 }
 
+.date {
+  color: #464948;
+}
+
 .link-box {
   padding: 10px;
   display: flex;
@@ -147,6 +151,14 @@ p {
   align-items: center;
 }
 
+.small-caps {
+  font-variant: small-caps;
+}
+
 /* .playlist {
   border: 1px solid pink;
 } */
+
+h3 {
+  color: #902923;
+}
