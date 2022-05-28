@@ -28,6 +28,9 @@ header {
   display: flex;
   border: 1px solid #0a100d;
   height: 100px;
+  /* background-color: #836733; */
+  background-color: #902923;
+  /* background-color: #CFBE96 */
 }
 
 nav {
@@ -39,6 +42,11 @@ nav {
   align-items: flex-end;
 }
 
+h4 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+}
+
 .nav-bar {
   display: flex;
   flex-direction: row;
@@ -46,7 +54,9 @@ nav {
 }
 
 .nav-bar-icon {
-  background-color: #d6d5c9;
+  /* background-color: #d6d5c9; */
+  /* background-color: #836733; */
+  background-color: #902923;
   height: 20px;
 }
 
