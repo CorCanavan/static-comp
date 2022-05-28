@@ -125,6 +125,7 @@ h1 {
   display: flex;
   height: 197px;
   flex-direction: column;
+  justify-content: space-between;
 }
 
 .card-header {
@@ -145,3 +146,7 @@ p {
   height: 30px;
   align-items: center;
 }
+
+/* .playlist {
+  border: 1px solid pink;
+} */
