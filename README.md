@@ -9,12 +9,12 @@ This challenge was to recreate a static comp with some creative license while re
 
 ## Illustration
 
-![Screen Shot 2022-05-29 at 5 31 27 PM](https://user-images.githubusercontent.com/97919748/170895715-9d68419f-8095-4dfb-8432-c21644dad873.png)
+![Screen Shot 2022-05-29 at 5 44 39 PM](https://user-images.githubusercontent.com/97919748/170896156-6b742fe6-f441-4252-a691-7fac1667aa12.png)
 
-## GitHub Link
+## GitHub Links
 
-Visit my repo link [here](https://github.com/CorCanavan/static-comp)
-Visit my deployed page link [here](https://corcanavan.github.io/static-comp/)
+- Visit my GitHub repo link [here](https://github.com/CorCanavan/static-comp).
+- Visit my GitHub deployed page link [here](https://corcanavan.github.io/static-comp/).
 
 ## Set Up
 
