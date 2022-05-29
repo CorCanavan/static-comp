@@ -92,7 +92,7 @@ h1 {
 .wrapper {
   padding: 10px;
   display: flex;
-  /* justify-content: space-evenly; */
+  justify-content: space-evenly;
   border: 2px solid orange;
 }
 
@@ -103,7 +103,7 @@ h1 {
   /* grid-template-rows: 350px 350px; */
   gap: 10px;
   border: 2px solid purple;
-  width: 100%;
+  /* width: 100%; */
 }
 
 .card {
